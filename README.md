@@ -3,3 +3,9 @@ This data science project contains dataset about bank customer's data, which was
 
 Complete details about this proeject can be found in report file under submission folder
 
+Special thanks of gratitude to the author Kaushik Varma whose
+dataset of market analysis I am using for this project.
+https://github.com/Kaushik-Varma/Marketing_Data_Analysis
+
+
+
